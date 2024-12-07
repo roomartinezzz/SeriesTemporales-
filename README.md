@@ -19,4 +19,4 @@ Esta aplicación Shiny permite visualizar, analizar y pronosticar datos relacion
 1. Filtrado dinámico por empresa, canal, agrupación, producto y otras dimensiones.
 2. Análisis de totales seleccionados con ventanas personalizadas de tiempo.
 
-# SOLO SE COMPARTIRÁN IMAGENES DE LA APLICACIÓN, PARA VISUALIZAR EL CODIGO, SOLICITARLO POR PRIVADO.
+## SOLO SE COMPARTIRÁ EL LINK A LA APLICACIÓN, PARA PODER ACCEDER A LA SIMULACIÓN ES NECESARIO CONTAR CON EL CODIGO  (solicitarlo al privado)
