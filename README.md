@@ -20,3 +20,4 @@ Esta aplicación Shiny permite visualizar, analizar y pronosticar datos relacion
 2. Análisis de totales seleccionados con ventanas personalizadas de tiempo.
 
 ## SOLO SE COMPARTIRÁ EL LINK A LA APLICACIÓN, PARA PODER ACCEDER A LA SIMULACIÓN ES NECESARIO CONTAR CON EL CODIGO  (solicitarlo al privado)
+https://rociomartinez.shinyapps.io/arima/
